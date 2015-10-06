@@ -1,6 +1,7 @@
 # Games
-Games and Activities for Trinity
+#### Games and Activities for Trinity
 ---
+
 #### Install with
 ```bash
 npm install
