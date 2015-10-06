@@ -15,7 +15,7 @@ describe "Game - Melonhead: Title", ->
   it "should visit #{settings.site}", (done)->
     browser.visit settings.site, done
 
-  it "should have a visted #{settings.site} successfully", (done)->
+  it "should have visted #{settings.site} successfully", (done)->
     browser.assert.success()
     done()
 
