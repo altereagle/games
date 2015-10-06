@@ -1,2 +1,2 @@
-# trinity-activity-1
-Activities for Trinity
+# Games
+Games and Activities for Trinity
