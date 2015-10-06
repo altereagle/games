@@ -11,7 +11,7 @@ settings =
 
 browser = new Browser()
 
-describe "Trinity - Exercise 1: HTML Elements", ->
+describe "Example 1: HTML Elements", ->
 
   it "should visit #{settings.site}", (done)->
     browser.visit settings.site, done
